@@ -1,5 +1,10 @@
 # Sharebooth.fun-showcase
+
+
 Winner — Best Use of DigitalOcean — Hack(H)er413 2026
+
+Visit the open-source code at: https://github.com/AndyHuynh24/sharebooth
+
 ![Join & Snap Photos](assets/3.png)
 ![Join & Snap Photos](assets/4.png)
 
