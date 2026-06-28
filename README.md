@@ -10,7 +10,7 @@ Visit the open-source code at: https://github.com/AndyHuynh24/sharebooth
 
 A browser‑based collaborative photobooth — created during Hack(H)er413 2026 and winner of Best Use of DigitalOcean.
 
-🌐 **Live demo:** https://sharebooth.fun
+🌐 **Live at:** https://sharebooth.fun
 ## 🎥 Demo Video
 [Watch the demo video](https://www.youtube.com/watch?v=VIKeBT4W1lY)
 ## 🚀 Overview
